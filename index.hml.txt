@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Problemas Contemporáneos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Problemas Contemporáneos</h1>
+        <p>Tu nombre y datos personales</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#cambio-climatico">Cambio Climático</a></li>
+            <li><a href="#desnutricion">Desnutrición</a></li>
+            <li><a href="#narcotrafico">Narcotráfico</a></li>
+        </ul>
+    </nav>
+    <section id="cambio-climatico">
+        <h2>Cambio Climático</h2>
+        <p>Causas, efectos y soluciones.</p>
+        <!-- Video embebido -->
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/URL_DEL_VIDEO" frameborder="0" allowfullscreen></iframe>
+    </section>
+    <section id="desnutricion">
+        <h2>Desnutrición</h2>
+        <p>Causas, efectos y soluciones.</p>
+    </section>
+    <section id="narcotrafico">
+        <h2>Narcotráfico</h2>
+        <p>Causas, efectos y soluciones.</p>
+    </section>
+    <footer>
+        <p>Contacto: tu.email@dominio.com</p>
+    </footer>
+</body>
+</html>
